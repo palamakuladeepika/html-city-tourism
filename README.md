@@ -1,7 +1,7 @@
 # Table code
 ```
-Developed by : G Venkata Pavan Kumar
-Reg. No : 212221240013
+Developed by : Palamakula Deepika
+Reg. No : 212221240035
 ```
 ### Assignment 1: Table 
 HTML CODE:
