@@ -88,7 +88,7 @@ HTML CODE:
 
 ```
 ### Output:
-![Screenshot 2024-07-03 214027](https://github.com/Pavan-Gv/Day_1_HTML/assets/94827772/e998810e-593b-4f33-98f6-fbbc77cd4585)
+![image](https://github.com/palamakuladeepika/html-city-tourism/assets/94154679/74781951-33a3-43b4-bf1b-5dcf15bcacf2)
 
 
 ### Assignment 2: College Website
