@@ -253,17 +253,17 @@ HTML CODE:
 
 **Index.html**:
 
-![image](https://github.com/Pavan-Gv/Day_1_HTML/assets/94827772/3c61e861-e5bb-47d9-85db-27eee2a88abb)
+![image](https://github.com/palamakuladeepika/html-city-tourism/assets/94154679/45cfc92c-76cc-4513-80e0-03a580dc944a)
 
 **Acedamics.html**:
 
-![image](https://github.com/Pavan-Gv/Day_1_HTML/assets/94827772/c52efe03-f088-4cec-b738-e9ff67a6f410)
+![image](https://github.com/palamakuladeepika/html-city-tourism/assets/94154679/45a93602-42fb-487b-a2d5-ae3da9e650b8)
 
 **Admissions.html**:
 
-![image](https://github.com/Pavan-Gv/Day_1_HTML/assets/94827772/ba67e602-3827-4d27-965b-5776f2d534fa)
+![image](https://github.com/palamakuladeepika/html-city-tourism/assets/94154679/99204714-5782-416f-a636-13617066d489)
 
 **Gallery.html**:
 
-![image](https://github.com/Pavan-Gv/Day_1_HTML/assets/94827772/733863df-3ade-4201-aa66-db4c2dbf33fe)
+![image](https://github.com/palamakuladeepika/html-city-tourism/assets/94154679/7275aa50-e2a7-4871-84d2-114e1a1ebe00)
 
